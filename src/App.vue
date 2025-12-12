@@ -6,7 +6,7 @@ import "./assets/js";
   <h1 data-magnetic>You did it!</h1>
 </template>
 
-<style scoped>
+<style>
 html,
 body {
   display: flex;
